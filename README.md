@@ -10,13 +10,13 @@ My value lies in what I contribute: dynamism, communication and inclusion.
 ⚡ Strong knowledge about:<br/>
 - React
 - Redux
-- -JQuery
+- JQuery
 - Node | Express
 - PostgreSQL | Sequelize
 - RESTful API
 - JavaScript
 - CSS | SASS | Less | Bootstrap
-- -HTML
+- HTML
 
 🌱 Currently learning:
 - TypeScript
