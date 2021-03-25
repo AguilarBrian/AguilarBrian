@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**AguilarBrian/AguilarBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Brian Aguilar**, Full Stack Developer and Computer Science student from Buenos Aires, Argentina.
 
-Here are some ideas to get you started:
+I am currently working as a Project Manager at Henry. Open to new proposals!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I stand out for my positive and determined attitude in the face of a new challenge, and for my ability to energize the teams where I work.
+My value lies in what I contribute: dynamism, communication and inclusion.
+
+⚡ Strong knowledge about:
+✔ React
+✔ Redux
+✔ JQuery
+✔ Node | Express
+✔ PostgreSQL | Sequelize
+✔ RESTful API
+✔ JavaScript
+✔ CSS | SASS | Less | Bootstrap
+✔ HTML
+
+🌱 Currently learning:
+• TypeScript
+• React Native
+• GraphQL
+• Docker
+• Next.js
+• MongoDB
+• Python
+
+✨     ✨    ✨    ✨   ✨  ✨ ✨     ✨       ✨✨   ✨        ✨
+    ✨    ✨  ✨✨   ✨ ✨        ✨    ✨✨        ✨    ✨ ✨✨     
+📫 I would love to talk! Feel free to reach out at brianisaiasaguilar@gmail.com
+
+- [Linkedin](https://www.linkedin.com/in/braiaguilar/)
+✨   ✨  ✨      ✨✨ ✨   ✨ ✨   ✨    ✨ ✨ ✨ ✨✨ ✨  ✨✨  ✨
+    ✨    ✨  ✨✨   ✨ ✨        ✨    ✨✨        ✨    ✨ ✨✨     ✨
