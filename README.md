@@ -5,12 +5,9 @@ I’m **Brian Aguilar**, Full Stack Developer and Computer Science student from 
 I am currently working as a Project Manager at Henry. Open to new proposals!
 
 🌱 Currently learning:
-- TypeScript
 - React Native
-- GraphQL
-- Docker
-- Next.js
-- MongoDB
+- AWS
+- Azure
 - Python
 
      
