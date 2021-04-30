@@ -4,12 +4,6 @@ I’m **Brian Aguilar**, Full Stack Developer and Computer Science student from 
 
 I am currently working as a Project Manager at Henry. Open to new proposals!
 
-🌱 Currently learning:
-- React Native
-- AWS
-- Azure
-- Python
-
      
 📫 I would love to talk! Feel free to reach out at brianisaiasaguilar@gmail.com
 
