@@ -6,8 +6,6 @@
     <a href="https://linkedin.com/in/braiaguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 </p>
 
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aguilarbrian&show_icons=true&locale=en&layout=compact" alt="Most Used Languages stats" />
@@ -45,7 +43,7 @@
     <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> Heroku
 </p>
 
-<br><br>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aguilarbrian&theme=dark" alt="aguilarbrian" /></p>
 
